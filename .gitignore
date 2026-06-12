@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE Files
+.vscode/
+.idea/
+
+
+# Dataset Files
+data/fashion-mnist_train.csv
+data/fashion-mnist_test.csv
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
